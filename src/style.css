@@ -1,0 +1,46 @@
+.app_wrap {
+  width: 50%;
+  text-align: center;
+  background-color: lightgray;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.title {
+  width: 60%;
+  height: 100px;
+  line-height: 100px;
+  background-color: gray;
+  margin: 0 auto 30px;
+}
+
+.text_wrap {
+  width: 60%;
+  height: 100px;
+  line-height: 100px;
+  background-color: gray;
+  margin: 0 auto 30px;
+}
+
+.text {
+  text-align: center;
+}
+
+.item_wrap {
+  width: 60%;
+  background-color: gray;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+#item {
+  width: 60%;
+  height: 30px;
+  line-height: 30px;
+  margin: 20px auto;
+  background-color: lightgray;
+}
+
+#check {
+  background-color: #fff;
+}
